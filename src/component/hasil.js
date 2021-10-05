@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Col, ListGroup, Row, Badge } from 'react-bootstrap';
 import { numberWithCommas } from '../untils/until';
+import TotalBayar from './totalBayar';
 
 export default class Hasil extends Component {
 	render(){
@@ -15,8 +16,8 @@ export default class Hasil extends Component {
 
 			<ListGroup variant="flush" key={keranjangs.id}>
 			{ keranjangs.map((keranjang) => (
-			  <Row>
-			  	<Col>
+			  <Row key={keranjang.id}>
+			  	<Col xs={2}>
 			  		<h4>
 			  			<Badge pill bg="primary">
 					       { keranjang.jumlah }
@@ -24,17 +25,19 @@ export default class Hasil extends Component {
 			  		</h4>
 			  	</Col>
 			  	<Col>
-			  		<h5>{keranjang.product.nama}</h5>
+			  		<h6><strong>{keranjang.product.nama}</strong></h6>
 			  		<p>IDR. {numberWithCommas(keranjang.product.harga)}</p>
 			  	</Col>
 			  	<Col>
-			  		<h4>IDR. {numberWithCommas(keranjang.total_harga)}</h4>
+			  		<p><strong className="float-right">IDR. {numberWithCommas(keranjang.total_harga)}</strong></p>
 			  	</Col>
 			  </Row>
 			))}
 			</ListGroup>
 
 			)}
+			
+			<TotalBayar keranjangs={keranjangs} {...this.props}/>
 		</Col>
 		)
 	}
