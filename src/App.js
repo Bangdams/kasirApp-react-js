@@ -4,7 +4,7 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import NavbarComponent from './component/Navbar';
+import NavbarComponent from './component/Navbar'
 import {Home, Sukses} from './pages/index'
 
 export default class App extends React.Component {

@@ -89,8 +89,8 @@ export default class Home extends React.Component {
 			 .post(API_URL+"keranjangs", keranjang)
 			  .then(res => {
 			  	Swal.fire(
-				  'Berhasil Disimpan',
-				   keranjang.product.nama+ 'Berhasil Disimpan',
+				  'Berhasil Di simpan',
+				   keranjang.product.nama+'Berhasil Di pesan',
 				  'success'
 				)
 			  })
