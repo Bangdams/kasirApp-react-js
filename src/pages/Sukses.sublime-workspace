@@ -1,0 +1,1400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"kera",
+				"keranjangDetail\tabc"
+			],
+			[
+				"hande",
+				"handleClose\tabc"
+			],
+			[
+				"stet",
+				"state\tReact: this.state."
+			],
+			[
+				"tot",
+				"totalHarga\tabc"
+			],
+			[
+				"ker",
+				"keranjangDetail\tabc"
+			],
+			[
+				"o",
+				"onClick\tabc"
+			],
+			[
+				"kura",
+				"kurang\tabc"
+			],
+			[
+				"cals",
+				"className=\"mb-3\tabc"
+			],
+			[
+				"fa",
+				"faMinus"
+			],
+			[
+				"Fo",
+				"FontAwesomeIcon\tabc"
+			],
+			[
+				"var",
+				"variant=\"primary\tabc"
+			],
+			[
+				"pro",
+				"product\tabc"
+			],
+			[
+				"pr",
+				"product\t(hasil.js)"
+			],
+			[
+				"hnade",
+				"handleClose\tabc"
+			],
+			[
+				"hand",
+				"handleClose\tabc"
+			],
+			[
+				"Moda",
+				"ModalKeranjang\tabc"
+			],
+			[
+				"sh",
+				"showModal\tabc"
+			],
+			[
+				"rafc",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"fun",
+				"function\t(totalBayar.js)"
+			],
+			[
+				"pesa",
+				"pesanan\tabc"
+			],
+			[
+				"pes",
+				"pesanans\t(db.json)"
+			],
+			[
+				"imp",
+				"imp\timport"
+			],
+			[
+				"Tot",
+				"TotalBayar\tabc"
+			],
+			[
+				"clas",
+				"className\tabc"
+			],
+			[
+				"tota",
+				"totalBayar\tabc"
+			],
+			[
+				"bac",
+				"background-color\tabc"
+			],
+			[
+				"rea",
+				"react-router-dom\t(App.js)"
+			],
+			[
+				"react",
+				"react-bootstrap\t(Home.js)"
+			],
+			[
+				"b",
+				"button\tabc"
+			],
+			[
+				"S",
+				"Switch\tabc"
+			],
+			[
+				"ex",
+				"export\t(App.js)"
+			],
+			[
+				"rcc",
+				"rcc\treactClassCompoment"
+			],
+			[
+				"cdu",
+				"cdup\tcomponentDidUpdate"
+			],
+			[
+				"kerj",
+				"keranjang\t(App.js)"
+			],
+			[
+				"Lis",
+				"ListGroup\tabc"
+			],
+			[
+				"cons",
+				"const\t(App.js)"
+			],
+			[
+				"da",
+				"data\tabc"
+			],
+			[
+				"prod",
+				"product\tabc"
+			],
+			[
+				"cate",
+				"CategoryyangDipilih"
+			],
+			[
+				"prop",
+				"props\tcomponentProps"
+			],
+			[
+				"men",
+				"menus\tabc"
+			],
+			[
+				"set",
+				"state\tcomponentState"
+			],
+			[
+				"cosn",
+				"console\tabc"
+			],
+			[
+				"sat",
+				"state\tcomponentState"
+			],
+			[
+				"cl",
+				"console\tabc"
+			],
+			[
+				"che",
+				"changeCategory\tabc"
+			],
+			[
+				"Ca",
+				"CategoryyangDipilih\t(App.js)"
+			],
+			[
+				"ca",
+				"category\tabc"
+			],
+			[
+				"c",
+				"const\tabc"
+			],
+			[
+				"st",
+				"strong\tabc"
+			],
+			[
+				"cat",
+				"category\tabc"
+			],
+			[
+				"con",
+				"console\tabc"
+			],
+			[
+				"sa",
+				"state\tcomponentState"
+			],
+			[
+				"fr",
+				"from\tabc"
+			],
+			[
+				"de",
+				"default\t(App.js)"
+			],
+			[
+				"cla",
+				"className\tabc"
+			],
+			[
+				"cal",
+				"className\tabc"
+			],
+			[
+				"ha",
+				"harga\t(db.json)"
+			],
+			[
+				"C",
+				"Col\t(App.js)"
+			],
+			[
+				"im",
+				"imrmp\timport React, { memo } & PropTypes"
+			],
+			[
+				"bos",
+				"bootstrap.min.css\t(index.js)"
+			],
+			[
+				"ra",
+				"rafc,rafce\treactArrowFunctionComponent"
+			],
+			[
+				"rc",
+				"rcl\treactClass"
+			],
+			[
+				"me",
+				"menus\tabc"
+			],
+			[
+				"co",
+				"console.log\t(index.js)"
+			],
+			[
+				"stat",
+				"state\tcomponentState"
+			],
+			[
+				"imm",
+				"imrmp\timport React, { memo } & PropTypes"
+			],
+			[
+				"bsp",
+				"bootstrap.min.css\t(index.js)"
+			],
+			[
+				"s",
+				"strong\tabc"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ma",
+				"makananbaru\tabc"
+			],
+			[
+				"hasp",
+				"hapusData\tabc"
+			],
+			[
+				"maka",
+				"makanan\tabc"
+			],
+			[
+				"mkaa",
+				"makananyangdipilih\tabc"
+			],
+			[
+				"mka",
+				"makananyangdipilih\tabc"
+			],
+			[
+				"fil",
+				"FilterMakanan"
+			],
+			[
+				"edit",
+				"editData\tabc"
+			],
+			[
+				"han",
+				"handleSubmite\t(index.js)"
+			],
+			[
+				"t",
+				"this\tabc"
+			],
+			[
+				"form",
+				"Formulir"
+			],
+			[
+				"Fro",
+				"Formulir\t(formulir.js)"
+			],
+			[
+				"Fr",
+				"Formulir\tabc"
+			],
+			[
+				"cos",
+				"const\t(table.js)"
+			],
+			[
+				"Nav",
+				"Navbar\tabc"
+			],
+			[
+				"NA",
+				"Navbar\tabc"
+			],
+			[
+				"na",
+				"Nav"
+			],
+			[
+				"re",
+				"refs\tReact: this.refs."
+			],
+			[
+				"CR",
+				"Crud\tabc"
+			],
+			[
+				"sub",
+				"Sublifecycle"
+			],
+			[
+				"su",
+				"Sublifecycle"
+			],
+			[
+				"com",
+				"componentDidMount\t(lifecycle.js)"
+			],
+			[
+				"rep",
+				"response\tabc"
+			],
+			[
+				"r",
+				"react-dom\t(index.js)"
+			],
+			[
+				"ren",
+				"render\t(index.js)"
+			],
+			[
+				"i",
+				"import\t(index.js)"
+			],
+			[
+				"Sa",
+				"StateProps"
+			],
+			[
+				"get",
+				"getInputTodo"
+			],
+			[
+				"todo",
+				"Todocreate"
+			],
+			[
+				"Todo",
+				"Todolist"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"id",
+				"id_produk"
+			],
+			[
+				"jad",
+				"jadwalmeetingModel"
+			],
+			[
+				"d",
+				"djadwal"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"tan",
+				"tanggal"
+			],
+			[
+				"tem",
+				"teamModel"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"do",
+				"dokumen"
+			],
+			[
+				"nama",
+				"nama_project"
+			],
+			[
+				"k",
+				"keterangan"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"no",
+				"notif"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"sw",
+				"sweetalert"
+			],
+			[
+				"h",
+				"hidden\tAttr"
+			],
+			[
+				"DA",
+				"DashbordController"
+			],
+			[
+				"ta",
+				"tambah-blog"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"bt",
+				"btn-success"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"magin-",
+				"margin-left\tproperty"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"Logi",
+				"login"
+			],
+			[
+				"valida",
+				"validateData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: di",
+				"Snippet: componentDidMount"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: did",
+				"Snippet: componentDidMount"
+			],
+			[
+				"Package Control: is",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: rea",
+				"Snippet: Wrap in a component"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: React",
+				"Snippet: React: component skeleton"
+			],
+			[
+				"Snippet: React ",
+				"Snippet: reactClass"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Wrap in a component"
+			],
+			[
+				"Snippet: for",
+				"Snippet: React: forceUpdate(...)"
+			],
+			[
+				"Snippet: react",
+				"Snippet: reactClass"
+			],
+			[
+				"Snippet: froe",
+				"Snippet: blade-fore"
+			],
+			[
+				"Snippet:",
+				"Snippet: blade-elseif"
+			],
+			[
+				"Snippet: foreach",
+				"Snippet: blade-foreach"
+			],
+			[
+				"Snippet: fro",
+				"Snippet: blade-foreach"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: blade-foreach"
+			],
+			[
+				"Snippet: y",
+				"Snippet: blade-yield"
+			],
+			[
+				"Snippet: ye",
+				"Snippet: blade-yield"
+			],
+			[
+				"Snippet: in",
+				"Snippet: blade-include"
+			],
+			[
+				"Snippet: ex",
+				"Snippet: blade-extends"
+			],
+			[
+				"Snippet: Rou",
+				"Snippet: blade-route"
+			],
+			[
+				"Snippet: f",
+				"Snippet: foreach …"
+			],
+			[
+				"Snippet: blade",
+				"Snippet: blade-dump"
+			],
+			[
+				"Package Control: isa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			],
+			[
+				"Snippet: forea",
+				"Snippet: foreach …"
+			],
+			[
+				"Snippet: <",
+				"Snippet: <?php else: ?>"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"paackage",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			],
+			[
+				"Snippet: phpp",
+				"Snippet: Throw Exception"
+			],
+			[
+				"S",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"cek",
+			"asu",
+			"celar",
+			"npm start",
+			"npm statr",
+			"celar",
+			"exit",
+			"s",
+			"celar"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/code/belajar-react-app/react-js-api/kasir-app-backend/db.json",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/pages/Home.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/hasil.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/modalKeranjang.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/totalBayar.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/kasir-app-backend/db.json",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/App.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/menus.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/pages/Sukses.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/pages/index.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/index.css",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/listCategoris.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/index.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/categori.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/untils/until.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/categoris.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/untils/constants.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/src/component/Navbar.js",
+		"/C/code/belajar-react-app/my-app/src/CRUD/NavbarComponent.js",
+		"/C/code/belajar-react-app/react-js-api/my-app/public/index.html",
+		"/C/code/belajar-react-app/my-app/src/CRUD/formulir.js",
+		"/C/code/belajar-react-app/my-app/src/CRUD/table.js",
+		"/C/code/belajar-react-app/my-app/src/CRUD/index.js",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/User/Terminality.sublime-settings",
+		"/C/code/belajar-react-app/react-js-todolist/my-app/src/components/todo-create/todocreate.js",
+		"/C/code/belajar-react-app/react-js-todolist/my-app/src/components/todo-list/todolist.js",
+		"/C/code/belajar-react-app/react-js-todolist/my-app/src/components/todo/todo.js",
+		"/C/code/belajar-react-app/my-app/src/index.js",
+		"/C/Users/ACER/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/code/belajar-react-app/my-app/src/belajar-lifecycle-component/sublifecycle.js",
+		"/C/code/belajar-react-app/my-app/src/belajar-lifecycle-component/lifecycle.js",
+		"/C/code/belajar-react-app/my-app/src/belajar-map-js/map.js",
+		"/C/code/belajar-react-app/my-app/src/mengenal-variabel/Variabel.js",
+		"/C/code/belajar-react-app/my-app/src/belajar-state-props/StateProps.js",
+		"/C/code/belajar-react-app/my-app/src/belajar-state-props/StateProps.css",
+		"/C/code/belajar-react-app/my-app/src/App.js",
+		"/C/code/belajar-react-app/my-app/src/Variabel.js",
+		"/C/code/belajar-react-app/my-app/src/Navbar.js",
+		"/C/code/belajar-react-app/my-app/src/components/todo-create/todocreate.js",
+		"/C/code/belajar-react-app/my-app/src/components/todo-create/todocreate.css",
+		"/C/code/belajar-react-app/my-app/src/components/todo/todo.js",
+		"/C/code/belajar-react-app/my-app/src/components/todo-list/todolist.js",
+		"/C/code/belajar-react-app/my-app/src/components/todo-list/todolist.css",
+		"/C/code/belajar-react-app/my-app/src/todo/todo.css",
+		"/C/code/belajar-react-app/my-app/src/todo-list/todolist.css",
+		"/C/code/belajar-react-app/my-app/src/todo/todo.js",
+		"/C/code/belajar-react-app/my-app/src/todo-list/todolist.js",
+		"/C/code/belajar-react-app/my-app/public/index.html",
+		"/C/code/belajar-react-app/my-app/src/App.css",
+		"/C/code/belajar-react-app/my-app/src/about.js",
+		"/C/xampp/htdocs/wpm/app/Config/routes.php",
+		"/C/xampp/htdocs/wpm/app/Template/produk/list.php",
+		"/C/xampp/htdocs/wpm/app/Controller/FileController.php",
+		"/C/xampp/htdocs/wpm/app/Controller/ProdukController.php",
+		"/C/xampp/htdocs/wpm/app/Controller/PaymentController.php",
+		"/C/xampp/htdocs/wpm/app/Controller/ProspekController.php",
+		"/C/xampp/htdocs/wpm/app/Controller/ClientController.php",
+		"/C/xampp/htdocs/wpm/app/Model/FileModel.php",
+		"/C/xampp/htdocs/wpm/app/Template/client/list.php",
+		"/C/xampp/htdocs/wpm/app/Template/produk/add.php",
+		"/C/xampp/htdocs/wpm/app/Model/ProjectModel.php",
+		"/C/xampp/htdocs/wpm/app/Controller/JadwalmeetingController.php",
+		"/C/xampp/htdocs/wpm/app/Model/ProdukModel.php",
+		"/C/xampp/htdocs/wpm/app/Model/JadwalmeetingModel.php",
+		"/C/xampp/htdocs/xampp/wpm/app/Model/JadwalmeetingModel.php",
+		"/C/xampp/htdocs/xampp/wpm/app/Controller/JadwalmeetingController.php",
+		"/C/xampp/htdocs/xampp/wpm/app/Controller/LaporanController.php",
+		"/C/xampp/htdocs/wpm/app/Controller/DokumenController.php",
+		"/C/xampp/htdocs/wpm/app/Template/dokumen/list.php",
+		"/C/xampp/htdocs/wpm/vendor/cakephp/database/Query.php",
+		"/C/xampp/htdocs/beljar_laravel/buat-laravel/public/assets/js/jquery.dataTables.min.js",
+		"/C/xampp/htdocs/wpm/app/Controller/ProjectnoteController.php",
+		"/C/xampp/htdocs/wpm/app/Template/prospek/edit.php",
+		"/C/xampp/htdocs/wpm/README.md",
+		"/C/xampp/htdocs/wpm/app/Template/projectnotes/edit.php",
+		"/C/xampp/htdocs/wpm/vendor/cakephp/datasource/SchemaInterface.php",
+		"/C/xampp/htdocs/wpm/db/migrations/20181122050639_payment_status.php",
+		"/C/xampp/htdocs/wpm/app/Template/payment/add.php",
+		"/C/xampp/htdocs/wpm/app/Template/laporan/list.php",
+		"/C/xampp/htdocs/wpm/db/wpm.sql",
+		"/C/xampp/htdocs/wpm/app/Controller/LaporanController.php",
+		"/C/xampp/htdocs/wpm/app/Model/TeamModel.php",
+		"/C/xampp/htdocs/wpm/app/Template/laporan/marketlist.php",
+		"/C/xampp/htdocs/wpm/app/Model/PaymentModel.php",
+		"/C/xampp/htdocs/wpm/app/Template/payment/prosespayment.php",
+		"/C/xampp/htdocs/tes/wpm/app/Config/routes.php",
+		"/C/xampp/htdocs/wpm/app/Template/project/edit.php",
+		"/C/xampp/htdocs/wpm/app/Template/project/add.php",
+		"/C/xampp/htdocs/wpm/app/Template/payment/list.php",
+		"/C/xampp/htdocs/wpm/app/Template/payment/edit.php",
+		"/C/xampp/htdocs/wpm/app/Controller/ProjectdokumenController.php",
+		"/C/xampp/htdocs/wpm/app/Controller/ProjectController.php",
+		"/C/xampp/htdocs/beljar_laravel/projek/wpm/app/Controller/ProjectController.php",
+		"/C/xampp/htdocs/beljar_laravel/projek/wpm/app/Template/payment/list.php",
+		"/C/xampp/htdocs/beljar_laravel/projek/wpm/app/Controller/ClientController.php",
+		"/C/xampp/htdocs/beljar_laravel/projek/wpm/app/Model/DokumenModel.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Model/TeamModel.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Model/LaporanModel.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Controller/LaporanController.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Config/routes.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/laporan/list.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/payment/add.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Controller/PaymentController.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Model/PaymentModel.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/payment/list.php",
+		"/C/xampp/htdocs/beljar_laravel/buat-laravel/app/Http/Controllers/DashbordController.php",
+		"/C/xampp/htdocs/belajar_php_sekolah/tugas_rabu_vol4/admin/page/berita/tambah.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/client/list.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/client/add.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Controller/ClientController.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Model/ClientModel.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/team/list.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Controller/TeamController.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/footer2.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/app/Template/layout2.php",
+		"/C/xampp/htdocs/beljar_laravel/tugas-Webhade/wpm/vendor/inuvalogic/akane3/app/Helper/Common.php",
+		"/C/xampp/htdocs/beljar_laravel/buat-laravel/vendor/realrashid/sweet-alert/src/Facades/Alert.php",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/resources/views/create.blade.php",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/.styleci.yml",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/public/index.php",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/resources/views/edit.blade.php",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/resources/views/index.blade.php",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/app/Http/Controllers/CrudController.php",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/app/Models/M_Crud.php",
+		"/C/xampp/htdocs/beljar_laravel/crudAjak/crudajax/routes/web.php",
+		"/C/xampp/htdocs/beljar_laravel/buat-laravel/resources/views/dashbord/userAdmin.blade.php",
+		"/C/xampp/htdocs/beljar_laravel/buat-laravel/resources/views/login/index.blade.php",
+		"/C/xampp/htdocs/beljar_laravel/buat-laravel/app/Http/Controllers/LoginControllers.php"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\webalizer\\wpm",
+			"C:\\xampp\\htdocs\\portalberita\\wpm",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"keranjang",
+			"link",
+			"<Route path=\"/\" component={Home} />",
+			"<h4>",
+			"keranjang",
+			"kerja",
+			"console.log(",
+			"i",
+			"icon",
+			"<div>",
+			"button",
+			"cek",
+			"4",
+			"this.props.",
+			"this.props",
+			"</row>",
+			"<row>",
+			"ro",
+			"row",
+			"nav",
+			"Nav",
+			"nav",
+			"sublife",
+			"Sublifecycle",
+			"cdk",
+			"Cek",
+			"formHelper",
+			"$tambah",
+			"dproject",
+			"rename",
+			"komisi\t",
+			"->addColumn('id_project','integer')",
+			"value=\"",
+			"status",
+			"();\n",
+			"$user",
+			"\"",
+			"alert",
+			"#page",
+			"src=\"",
+			"href=\"",
+			"/detail",
+			"body > div.swal-overlay.swal-overlay--show-modal >",
+			"<div class=\"form-group row\">\n\t\t\t<label class=\"control-label col-sm-2\" for=\"input-1\">Judul :</label>\n\t\t\t<div class=\"col-sm-10\">\n\t\t\t\t<input type=\"text\" name=\"judul\" class=\"form-control\" id=\"input-1\" placeholder=\"Tulis Judul\" />\n\t\t\t</div>\n\t\t</div>",
+			"?page",
+			"../",
+			"../assets",
+			"<div class=\"col-sm-9 col-xs-12 content pt-3 pl-0\">\n                   ",
+			"body > div > div.row.main-content > div.col-sm-9.col-xs-12.content.pt-3.pl-0 > div.col-sm-9.col-xs-12.content.pt-3.pl-0",
+			"<div class=\"row mt-3\">\n                    <div class=\"col-sm-12\">\n                        <!--Datatable-->\n                        <div class=\"mt-1 mb-3 p-3 button-container bg-white border shadow-sm\">\n                            <h6 class=\"mb-2\">Datatable</h6>\n                            \n                            <div class=\"table-responsive\">\n                                <div id=\"example_wrapper\" class=\"dataTables_wrapper dt-bootstrap4\"><div class=\"row\"><div class=\"col-sm-12 col-md-6\"><div class=\"dataTables_length\" id=\"example_length\"><label>Show <select name=\"example_length\" aria-controls=\"example\" class=\"custom-select custom-select-sm form-control form-control-sm\"><option value=\"10\">10</option><option value=\"25\">25</option><option value=\"50\">50</option><option value=\"100\">100</option></select> entries</label></div></div><div class=\"col-sm-12 col-md-6\"><div id=\"example_filter\" class=\"dataTables_filter\"><label>Search:<input type=\"search\" class=\"form-control form-control-sm\" placeholder=\"\" aria-controls=\"example\"></label></div></div></div><div class=\"row\"><div class=\"col-sm-12\"><table id=\"example\" class=\"table table-striped table-bordered dataTable\" role=\"grid\" aria-describedby=\"example_info\">\n                                    <thead>\n                                        <tr role=\"row\"><th class=\"sorting_asc\" tabindex=\"0\" aria-controls=\"example\" rowspan=\"1\" colspan=\"1\" aria-sort=\"ascending\" aria-label=\"Name: activate to sort column descending\" style=\"width: 148px;\">Name</th><th class=\"sorting\" tabindex=\"0\" aria-controls=\"example\" rowspan=\"1\" colspan=\"1\" aria-label=\"Position: activate to sort column ascending\" style=\"width: 237px;\">Position</th><th class=\"sorting\" tabindex=\"0\" aria-controls=\"example\" rowspan=\"1\" colspan=\"1\" aria-label=\"Office: activate to sort column ascending\" style=\"width: 102px;\">Office</th><th class=\"sorting\" tabindex=\"0\" aria-controls=\"example\" rowspan=\"1\" colspan=\"1\" aria-label=\"Age: activate to sort column ascending\" style=\"width: 42px;\">Age</th><th class=\"sorting\" tabindex=\"0\" aria-controls=\"example\" rowspan=\"1\" colspan=\"1\" aria-label=\"Start date: activate to sort column ascending\" style=\"width: 101px;\">Start date</th><th class=\"sorting\" tabindex=\"0\" aria-controls=\"example\" rowspan=\"1\" colspan=\"1\" aria-label=\"Salary: activate to sort column ascending\" style=\"width: 74px;\">Salary</th></tr>\n                                    </thead>\n                                    <tbody>\n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                        \n                                    <tr role=\"row\" class=\"odd\">\n                                            <td class=\"sorting_1\">Airi Satou</td>\n                                            <td>Accountant</td>\n                                            <td>Tokyo</td>\n                                            <td>33</td>\n                                            <td>2008/11/28</td>\n                                            <td>$162,700</td>\n                                        </tr><tr role=\"row\" class=\"even\">\n                                            <td class=\"sorting_1\">Angelica Ramos</td>\n                                            <td>Chief Executive Officer (CEO)</td>\n                                            <td>London</td>\n                                            <td>47</td>\n                                            <td>2009/10/09</td>\n                                            <td>$1,200,000</td>\n                                        </tr><tr role=\"row\" class=\"odd\">\n                                            <td class=\"sorting_1\">Ashton Cox</td>\n                                            <td>Junior Technical Author</td>\n                                            <td>San Francisco</td>\n                                            <td>66</td>\n                                            <td>2009/01/12</td>\n                                            <td>$86,000</td>\n                                        </tr><tr role=\"row\" class=\"even\">\n                                            <td class=\"sorting_1\">Bradley Greer</td>\n                                            <td>Software Engineer</td>\n                                            <td>London</td>\n                                            <td>41</td>\n                                            <td>2012/10/13</td>\n                                            <td>$132,000</td>\n                                        </tr><tr role=\"row\" class=\"odd\">\n                                            <td class=\"sorting_1\">Brenden Wagner</td>\n                                            <td>Software Engineer</td>\n                                            <td>San Francisco</td>\n                                            <td>28</td>\n                                            <td>2011/06/07</td>\n                                            <td>$206,850</td>\n                                        </tr><tr role=\"row\" class=\"even\">\n                                            <td class=\"sorting_1\">Brielle Williamson</td>\n                                            <td>Integration Specialist</td>\n                                            <td>New York</td>\n                                            <td>61</td>\n                                            <td>2012/12/02</td>\n                                            <td>$372,000</td>\n                                        </tr><tr role=\"row\" class=\"odd\">\n                                            <td class=\"sorting_1\">Bruno Nash</td>\n                                            <td>Software Engineer</td>\n                                            <td>London</td>\n                                            <td>38</td>\n                                            <td>2011/05/03</td>\n                                            <td>$163,500</td>\n                                        </tr><tr role=\"row\" class=\"even\">\n                                            <td class=\"sorting_1\">Caesar Vance</td>\n                                            <td>Pre-Sales Support</td>\n                                            <td>New York</td>\n                                            <td>21</td>\n                                            <td>2011/12/12</td>\n                                            <td>$106,450</td>\n                                        </tr><tr role=\"row\" class=\"odd\">\n                                            <td class=\"sorting_1\">Cara Stevens</td>\n                                            <td>Sales Assistant</td>\n                                            <td>New York</td>\n                                            <td>46</td>\n                                            <td>2011/12/06</td>\n                                            <td>$145,600</td>\n                                        </tr><tr role=\"row\" class=\"even\">\n                                            <td class=\"sorting_1\">Cedric Kelly</td>\n                                            <td>Senior Javascript Developer</td>\n                                            <td>Edinburgh</td>\n                                            <td>22</td>\n                                            <td>2012/03/29</td>\n                                            <td>$433,060</td>\n                                        </tr></tbody>\n                                    <tfoot>\n                                        <tr><th rowspan=\"1\" colspan=\"1\">Name</th><th rowspan=\"1\" colspan=\"1\">Position</th><th rowspan=\"1\" colspan=\"1\">Office</th><th rowspan=\"1\" colspan=\"1\">Age</th><th rowspan=\"1\" colspan=\"1\">Start date</th><th rowspan=\"1\" colspan=\"1\">Salary</th></tr>\n                                    </tfoot>\n                                </table></div></div><div class=\"row\"><div class=\"col-sm-12 col-md-5\"><div class=\"dataTables_info\" id=\"example_info\" role=\"status\" aria-live=\"polite\">Showing 1 to 10 of 57 entries</div></div><div class=\"col-sm-12 col-md-7\"><div class=\"dataTables_paginate paging_simple_numbers\" id=\"example_paginate\"><ul class=\"pagination\"><li class=\"paginate_button page-item previous disabled\" id=\"example_previous\"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"0\" tabindex=\"0\" class=\"page-link\">Previous</a></li><li class=\"paginate_button page-item active\"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"1\" tabindex=\"0\" class=\"page-link\">1</a></li><li class=\"paginate_button page-item \"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"2\" tabindex=\"0\" class=\"page-link\">2</a></li><li class=\"paginate_button page-item \"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"3\" tabindex=\"0\" class=\"page-link\">3</a></li><li class=\"paginate_button page-item \"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"4\" tabindex=\"0\" class=\"page-link\">4</a></li><li class=\"paginate_button page-item \"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"5\" tabindex=\"0\" class=\"page-link\">5</a></li><li class=\"paginate_button page-item \"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"6\" tabindex=\"0\" class=\"page-link\">6</a></li><li class=\"paginate_button page-item next\" id=\"example_next\"><a href=\"#\" aria-controls=\"example\" data-dt-idx=\"7\" tabindex=\"0\" class=\"page-link\">Next</a></li></ul></div></div></div></div>\n                            </div>\n                        </div>\n                        <!--/Datatable-->\n\n                    </div>\n                </div>",
+			">\n",
+			"inde",
+			"pay",
+			"assets/",
+			"</body>",
+			"../assets",
+			"../assets/",
+			"email",
+			"Email",
+			"email",
+			"Email",
+			"nama",
+			"<div class=\"alert alert-warning alert-dismissible fade show\" role=\"alert\">\n              <strong>Holy guacamole!</strong> You should check in on some of those fields below.\n              <button type=\"button\" class=\"close\" data-dismiss=\"alert\" aria-label=\"Close\">\n                <span aria-hidden=\"true\">&times;</span>\n              </button>\n            </div>",
+			"]);\n",
+			"login",
+			"<div class=\"container\">",
+			"title",
+			"$b",
+			"li",
+			"a",
+			"userName",
+			"Post::create(['category_id' => 2, 'user_id' => 1 , 'judul' => 'judul ke dua', 'slug' => 'judul-ke-dua' ,'excerpt' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit','isi' => 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.']);",
+			"tr",
+			"class",
+			"')\n",
+			"'is_image' => 'yang anda pilih bukan gambar'",
+			"class=\"p\"",
+			"();",
+			"');\n",
+			"penerbit",
+			"nohp",
+			"No Hp",
+			"alamat",
+			"Alamat",
+			"nama",
+			"Nama",
+			"\"",
+			"(\"",
+			"judul",
+			"inputPassword3",
+			"Password",
+			"inputPassword3",
+			"inputEmail3",
+			"inputPassword3",
+			"password",
+			"inputPassword3",
+			"tambah",
+			"()\n",
+			"$a",
+			"<?=",
+			"<?= $a['jenis'] ?>",
+			"#",
+			"alamat",
+			"Alamat",
+			"alamat",
+			"inputPassword3",
+			"inputEmail3",
+			">\n",
+			"konten",
+			"#",
+			"alamat",
+			"Alamat",
+			"inputPassword3",
+			"Email",
+			"inputEmail3",
+			"bootstrap-4.3.1/",
+			"<div",
+			"<div class=\"modal fade\" id=\"exampleModal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"exampleModalLabel\" aria-hidden=\"true\">",
+			">\n",
+			"alamat",
+			"Alamat",
+			"alamat",
+			"password",
+			"Password",
+			"inputPassword3",
+			"inputEmail3",
+			"#",
+			"# "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"../template/material-pro/assets",
+			"../template/assets",
+			"../template/paper-dashboard-master/assets",
+			"../tempalte/material-pro/plugins",
+			"../tempalte/material-pro/assets/",
+			"template",
+			"../template/material-pro/assets/plugins/",
+			"../template/material-pro/assets/images/",
+			"../template/material-pro/minisidebar/js/",
+			"../template/material-pro/minisidebar/css/",
+			"../template/material-pro/",
+			"../template/assets/",
+			"../../template/material-pro/minisidebar/js/",
+			"../../template/material-pro/minisidebar/css/",
+			"../../template/material-pro/minisidebar/",
+			"../../template/material-pro/assets",
+			"../../template/material-pro/assets/",
+			"td",
+			"th",
+			"template_umum/aznews_master/assets",
+			"template_umum",
+			"/",
+			"../../template_umum/aznews_master/assets",
+			"template_umum/aznews_master/assets",
+			"template_umum/aznews_master/"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Sukses.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"tugas-Webhade\\wpm\\app\\Controller\\ClientController.php"
+			],
+			[
+				"pos",
+				"buat-laravel\\app\\Http\\Controllers\\PostControllers.php"
+			],
+			[
+				"index",
+				"buat-laravel\\resources\\views\\dashbord\\index.blade.php"
+			],
+			[
+				"loginCo",
+				"buat-laravel\\app\\Http\\Controllers\\LoginControllers.php"
+			],
+			[
+				"nav",
+				"buat-laravel\\resources\\views\\navbar.blade.php"
+			],
+			[
+				"we",
+				"buat-laravel\\routes\\web.php"
+			],
+			[
+				"routeSe",
+				"buat-laravel\\app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"daf",
+				"buat-laravel\\app\\Http\\Controllers\\DaftarControlers.php"
+			],
+			[
+				"index.blad",
+				"buat-laravel\\resources\\views\\dashbord\\index.blade.php"
+			],
+			[
+				"tem",
+				"buat-laravel\\resources\\views\\template.blade.php"
+			],
+			[
+				"templa",
+				"buat-laravel\\resources\\views\\template.blade.php"
+			],
+			[
+				"dash",
+				"buat-laravel\\app\\Http\\Controllers\\DashbordController.php"
+			],
+			[
+				"index.blade",
+				"buat-laravel\\resources\\views\\daftar\\index.blade.php"
+			],
+			[
+				"daftar",
+				"buat-laravel\\app\\Http\\Controllers\\DaftarControlers.php"
+			],
+			[
+				"web",
+				"buat-laravel\\vendor\\itsgoingd\\clockwork\\Clockwork\\Web\\Web.php"
+			],
+			[
+				".env",
+				"gis-sekolah-laravel\\.env"
+			],
+			[
+				"Daftar",
+				"buat-laravel\\app\\Http\\Controllers\\DaftarControlers.php"
+			],
+			[
+				"dafta",
+				"buat-laravel\\app\\Http\\Controllers\\DaftarControlers.php"
+			],
+			[
+				"login",
+				"buat-laravel\\app\\Http\\Controllers\\LoginControllers.php"
+			],
+			[
+				"data",
+				"buat-laravel\\database\\seeders\\DatabaseSeeder.php"
+			],
+			[
+				"userFa",
+				"buat-laravel\\database\\factories\\UserFactory.php"
+			],
+			[
+				"user",
+				"buat-laravel\\app\\Models\\User.php"
+			],
+			[
+				"postc",
+				"buat-laravel\\app\\Http\\Controllers\\PostControllers.php"
+			],
+			[
+				"create",
+				"buat-laravel\\database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"creat",
+				"buat-laravel\\database\\migrations\\2021_08_05_012511_create_posts_table.php"
+			],
+			[
+				"index.bl",
+				"buat-laravel\\resources\\views\\daftar\\index.blade.php"
+			],
+			[
+				"navbar",
+				"buat-laravel\\resources\\views\\navbar.blade.php"
+			],
+			[
+				"blog",
+				"buat-laravel\\resources\\views\\halaman\\blog.blade.php"
+			],
+			[
+				"posC",
+				"buat-laravel\\app\\Http\\Controllers\\PostControllers.php"
+			],
+			[
+				"cate",
+				"buat-laravel\\app\\Http\\Controllers\\CategoryControllers.php"
+			],
+			[
+				"postCo",
+				"buat-laravel\\app\\Http\\Controllers\\PostControllers.php"
+			],
+			[
+				"single.bla",
+				"buat-laravel\\resources\\views\\halaman\\singlePost.blade.php"
+			],
+			[
+				"single ",
+				"laravel-3\\resources\\views\\halaman\\single.blade.php"
+			],
+			[
+				"Database",
+				"buat-laravel\\database\\seeders\\DatabaseSeeder.php"
+			],
+			[
+				"blog.bl",
+				"laravel-3\\resources\\views\\halaman\\blog.blade.php"
+			],
+			[
+				"posfa",
+				"buat-laravel\\database\\factories\\PostFactory.php"
+			],
+			[
+				"post",
+				"buat-laravel\\database\\factories\\PostFactory.php"
+			],
+			[
+				"postFa",
+				"laravel-3\\database\\factories\\PostFactory.php"
+			],
+			[
+				"UserFa",
+				"laravel-3\\database\\factories\\UserFactory.php"
+			],
+			[
+				"create_pos",
+				"buat-laravel\\database\\migrations\\2021_08_05_012511_create_posts_table.php"
+			],
+			[
+				"web.",
+				"buat-laravel\\routes\\web.php"
+			],
+			[
+				"sing",
+				"buat-laravel\\resources\\views\\halaman\\singlePost.blade.php"
+			],
+			[
+				"blo",
+				"laravel-3\\resources\\views\\halaman\\blog.blade.php"
+			],
+			[
+				"web.php",
+				"buat-laravel\\routes\\web.php"
+			],
+			[
+				"create_",
+				"laravel-3\\database\\migrations\\2021_08_15_070755_create_posts_table.php"
+			],
+			[
+				"DatabaseSe",
+				"buat-laravel\\database\\seeders\\DatabaseSeeder.php"
+			],
+			[
+				"DatabaseSed",
+				"buat-laravel\\database\\seeders\\DatabaseSeeder.php"
+			],
+			[
+				"navbar.bla",
+				"laravel-3\\resources\\views\\navbar.blade.php"
+			],
+			[
+				"tempa",
+				"buat-laravel\\resources\\views\\template.blade.php"
+			],
+			[
+				"dat",
+				"buat-laravel\\database\\seeders\\DatabaseSeeder.php"
+			],
+			[
+				"abou",
+				"buat-laravel\\resources\\views\\halaman\\about.blade.php"
+			],
+			[
+				"postco",
+				"buat-laravel\\app\\Http\\Controllers\\PostControllers.php"
+			],
+			[
+				"create_user",
+				"buat-laravel\\database\\migrations\\2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"databaseSe",
+				"buat-laravel\\database\\seeders\\DatabaseSeeder.php"
+			],
+			[
+				"create_cat",
+				"buat-laravel\\database\\migrations\\2021_08_09_031119_create_categories_table.php"
+			],
+			[
+				"create_car",
+				"buat-laravel\\database\\migrations\\2021_08_09_031119_create_categories_table.php"
+			],
+			[
+				"cat",
+				"buat-laravel\\app\\Models\\Category.php"
+			],
+			[
+				"Post",
+				"buat-laravel\\database\\factories\\PostFactory.php"
+			],
+			[
+				"PosFa",
+				"buat-laravel\\database\\factories\\PostFactory.php"
+			],
+			[
+				"post ",
+				"Post::create(['category_id' => 2, 'judul' => 'judu"
+			],
+			[
+				".",
+				"coba_ci4\\.env"
+			],
+			[
+				"env",
+				"ci4app_ulang\\env"
+			],
+			[
+				"temp",
+				"coba_ci4\\app\\Views\\layout\\template.php"
+			],
+			[
+				"sin",
+				"buat-laravel\\resources\\views\\halaman\\singlePost.blade.php"
+			],
+			[
+				"ca",
+				"buat-laravel\\app\\Models\\Category.php"
+			],
+			[
+				"Cate",
+				"buat-laravel\\app\\Models\\Category.php"
+			],
+			[
+				"single",
+				"buat-laravel\\resources\\views\\halaman\\singlePost.blade.php"
+			],
+			[
+				"tamba",
+				"coba_ci4\\app\\Views\\komik\\tambah.php"
+			],
+			[
+				"deta",
+				"coba_ci4\\app\\Views\\komik\\detail.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"AbstractChunkOutputBuilder"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
